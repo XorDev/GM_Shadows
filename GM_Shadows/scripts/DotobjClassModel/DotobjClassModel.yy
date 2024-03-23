@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"DotobjClassModel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DotobjClassModel",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/dotobj/(System).yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
